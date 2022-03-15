@@ -2,6 +2,12 @@
 
 Yeah, i'm Stefano, Software Engineer, Javascript Deve(lo(ver)?)per, and Web's Enthusiastic in Terni, Italia. Working remotely for @Immobiliare, passionate about trip, photo and food (i cook sometimes, quite well 🧑‍🍳)
 
+<!--
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fefoweb&label=Profile%20views&color=0e75b6&style=flat" alt="fefoweb" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fefoweb" alt="fefoweb" /></a> </p>
+-->
+
 - 🔭 I’m currently working for 🏠 [immobiliare.it](https://www.immobiliare.it), in the Software Development Team (in [@ImmobiliareLabs](https://github.com/immobiliare/)), with a focus on developing and maintaining web applications through the use of server-side and client-side technologies.
 - 🌱 I’m currently improving my knowledge about **React ecosystem, next.js, CI/CD pipelines, Laravel and tracking system**
 - 😄 Nickname: Fefo (my sister call me with `fefo`), fefoweb on Web
